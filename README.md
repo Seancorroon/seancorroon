@@ -3,6 +3,9 @@
 
 I have recently changed careers to pursue my interest in cybersecurity, technology and a dedication to solving complex problems.
 
+## Professional Statement
+I am passionate about cybersecurity, driven by a commitment to protect organizations from evolving threats. With a strong foundation in network security and a knack for problem-solving, I aim to develop expertise in threat analysis and incident response. My values emphasize integrity and continuous learning, ensuring I uphold the highest standards of data protection and risk mitigation. I am eager to contribute my skills to support organizations in maintaining robust cybersecurity defenses, safeguarding their assets and fostering trust among stakeholders.
+
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
